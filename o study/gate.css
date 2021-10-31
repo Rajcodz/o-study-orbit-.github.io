@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.sir{
+    height: 580px;
+    display: flex;
+    padding-top: 34px;
+    padding-left: 90px;
+    background-color: brown;
+    
+    
+    }
+    .kk{
+    
+        width: 121px;
+        height: 121px;
+        padding-top: 45px;
+        margin: 2px;
+        margin-left: 80px;
+        border-radius: 67px;
+        cursor: pointer;
+    }
+    .btn2{
+        width: 123px;
+        height: 34px;
+        margin-left: -123px;
+        border-radius: 34px;
+        transition-duration:1.5s ;
+        background-color: yellow;
+    }
+    .btn2:hover{
+    background-color: cyan;
+    }
+    .btn3{
+        width: 123px;
+        height: 34px;
+        margin-left: -123px;
+        margin-top: 89px;
+        border-radius: 34px;
+        transition-duration:1.5s ;
+        background-color: rgb(46, 13, 231);
+    }
+    .btn3:hover{
+    background-color: cyan;
+
+    }

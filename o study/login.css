@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+    }
+    .con{
+        
+        font-size: 98px;
+        text-align: center;
+        text-shadow:6px 8px 9px  #ff0000, 0 0 8px green;
+        
+    }
+    .contact form{
+        width:600px ;
+        display: flex;
+        margin-left: 360px;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .contact form input,.contact form textarea{
+    width: 100%;
+    height: 40px;
+    margin: 5px 0px;
+    margin-top: 34px;
+    padding: 10px;
+    background-color: darkgray;
+    color: #000;
+    border-radius: 8px;
+    
+    }
+    .contact form textarea{
+        height: 190px;
+    }
+    .ct-btn{
+        width: 56px;
+        height: 40px;
+        border-radius: 34px;
+        margin-top: 35px;
+        transition-duration: 1.5s;
+    }
+    .ct-btn:hover{
+        background-color: brown;
+    }
+    .img{
+    
+        width: 112px;
+        height: 112px;
+        margin: 2px;
+        margin-left: 125px;
+        border-radius: 67px;
+        cursor: pointer;
+        transition: 2s;
+    }
+    .img :hover{
+        width: 678px;
+    }
+    p{
+        
+        font-size: 25px;
+        margin-top: 67px;
+        margin-left: 34px;
+        margin-right: 34px;
+        color: darkgray;
+        align-items: center;
+    
+        
+    }
+    .footer{
+        width: 100%;
+        height: 180px;
+        margin-top: 12px;
+        background-color: black;
+    }
+    .smm{
+        color: white;
+        margin-top: -67px;
+        margin-left: 500px;
+    
+    }
+    .uu{
+        margin-left: 110px;
+    }
+    .gggg{
+        font-size: 17px;
+        text-align: center;
+        margin-top: 12px;
+    }

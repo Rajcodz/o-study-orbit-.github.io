@@ -1,0 +1,93 @@
+*{
+margin: 0px;
+padding: 0px;
+
+}
+.hdd{
+    font-size: 98px;
+    text-align: center;
+    text-shadow:6px 8px 9px  #ff0000, 0 0 8px green;
+    
+}
+.sir{
+display: flex;
+margin: 45px;
+padding-top: 78px;
+background-color: brown;
+
+
+}
+.kk{
+
+    width: 121px;
+    height: 121px;
+    
+    margin: 2px;
+    margin-left: 80px;
+    border-radius: 67px;
+    cursor: pointer;
+}
+.btn{
+    width: 123px;
+    height: 34px;
+    margin-left: 80px;
+    border-radius: 34px;
+    transition-duration:1.5s ;
+}
+.btn:hover{
+background-color: cyan;
+}
+.btn1{
+    width: 123px;
+    height: 34px;
+    border-radius: 34px;
+    transition-duration: 1.5s;
+}
+.btn1:hover{
+    background-color: cyan;
+}
+
+.img{
+
+    width: 112px;
+    height: 112px;
+    margin: 2px;
+    margin-left: 125px;
+    border-radius: 67px;
+    cursor: pointer;
+    transition: 2s;
+}
+.img :hover{
+    width: 678px;
+}
+p{
+    
+    font-size: 25px;
+    margin-top: 67px;
+    margin-left: 34px;
+    margin-right: 34px;
+    color: darkgray;
+    align-items: center;
+
+    
+}
+.footer{
+    width: 100%;
+    height: 180px;
+    margin-top: 12px;
+    background-color: black;
+}
+.smm{
+    color: white;
+    margin-top: -67px;
+    margin-left: 500px;
+
+}
+.uu{
+    margin-left: 110px;
+}
+.gggg{
+    font-size: 17px;
+    text-align: center;
+    margin-top: 12px;
+}
